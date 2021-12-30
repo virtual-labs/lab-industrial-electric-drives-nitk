@@ -1,0 +1,23 @@
+{
+    "broadArea": {
+        "name": "Electrical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    },
+    "lab": "Industrial Electric Drives and Application of PLC",
+    "lab_display_name": "Industrial Electric Drives Lab",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "NITS",
+    "baseUrl": "ied-nitk.vlabs.ac.in",
+    "introduction": "",
+    "experiments": [],
+    "targetAudience": {
+        "UG": [],
+        "PG": []
+    },
+    "objective": "",
+    "courseAlignment": {
+        "description": "",
+        "universities": []
+    }
+}
