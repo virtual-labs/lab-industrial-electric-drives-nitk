@@ -11,21 +11,105 @@
     "baseUrl": "ied-nitk.vlabs.ac.in",
     "introduction": "Welcome to Industrial Electric Drives Lab.",
     "experiments": [
+                   {
+      "name": "Introduction to PLC and Introduction to digital I/O interface to PLC",
+      "short-name": "exp-interface-to-plc-nitk",
+      "repo": "https://github.com/virtual-labs/exp-interface-to-plc-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+             {
+      "name": "Introduction to ladder logic",
+      "short-name": "exp-ladder-logic-nitk",
+      "repo": "https://github.com/virtual-labs/exp-ladder-logic-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+     {
+      "sect-name": "PLC Timer Instruction",
+      "experiments": [
             {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "PLC On-Delay Timer Instruction",
+      "short-name": "exp-plc-on-delay-nitk",
+      "repo": "https://github.com/virtual-labs/exp-plc-on-delay-nitk",
       "tag": "v1.0.0",
       "deploy": true
             },
             {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "PLC Off-Delay Timer Instruction",
+      "short-name": "exp-plc-off-delay-nitk",
+      "repo": "https://github.com/virtual-labs/exp-plc-off-delay-nitk",
       "tag": "v1.0.0",
       "deploy": true
             },
-        
+            {
+      "name": "PLC Retentive Timer On Instruction",
+      "short-name": "exp-plc-retentive-timer-nitk",
+      "repo": "https://github.com/virtual-labs/exp-plc-retentive-timer-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            }
+                ]
+    },
+        {
+      "sect-name": "PLC Counter Instruction",
+      "experiments": [
+            {
+      "name": "PLC Count-Up instruction",
+      "short-name": "exp-plc-count-up-nitk",
+      "repo": "https://github.com/virtual-labs/exp-plc-count-up-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+            {
+      "name": "PLC Count-Down instruction",
+      "short-name": "exp-plc-count-down-nitk-nitk",
+      "repo": "https://github.com/virtual-labs/exp-plc-count-down-nitk-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            }
+                ]
+    },
+        {
+      "sect-name": "Application of PLC",
+      "experiments": [
+            {
+      "name": "Garage Shutter Opening and Closing Using PLC",
+      "short-name": "exp-garage-shutter-plc-nitk",
+      "repo": "https://github.com/virtual-labs/exp-garage-shutter-plc-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+            {
+      "name": "Container Filling Process Using PLC",
+      "short-name": "exp-container-filling-process-nitk",
+      "repo": "https://github.com/virtual-labs/exp-container-filling-process-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+            {
+      "name": "Simultaneous output interlock using PLC",
+      "short-name": "exp-simultaneous-output-interlock-nitk",
+      "repo": "https://github.com/virtual-labs/exp-simultaneous-output-interlock-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+            {
+      "name": "Maximum Simultaneous Operations Limiter using PLC",
+      "short-name": "exp-maximum-simultaneous-operations-limiter-nitk",
+      "repo": "https://github.com/virtual-labs/exp-maximum-simultaneous-operations-limiter-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+            {
+      "name": "Motor forward and reverse direction control using PLC",
+      "short-name": "exp-motor-forward-reverse-direction-control-nitk",
+      "repo": "https://github.com/virtual-labs/exp-motor-forward-reverse-direction-control-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+            }
+                ]
+    }
                    ],
     "targetAudience": {
         "UG": ["Target group will be updated soon."],
