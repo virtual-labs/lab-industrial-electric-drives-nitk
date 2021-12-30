@@ -9,15 +9,31 @@
     "phase": 2,
     "collegeName": "NITS",
     "baseUrl": "ied-nitk.vlabs.ac.in",
-    "introduction": "",
-    "experiments": [],
+    "introduction": "Welcome to Industrial Electric Drives Lab.",
+    "experiments": [
+            {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+            {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+            },
+        
+                   ],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["Target group will be updated soon."],
+        "PG": ["Target group will be updated soon."]
     },
-    "objective": "",
+    "objective": "Industrial Electric Drives Lab deals with the simulations experiments on introduction to Programmable Logic Controller (PLC), introduction to digital I/O interface to PLC and ladder logic and, applications of PLC.",
     "courseAlignment": {
         "description": "",
-        "universities": []
+        "universities": ["The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."]
     }
 }
