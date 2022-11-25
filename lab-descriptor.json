@@ -7,7 +7,7 @@
   "lab_display_name": "Industrial Electric Drives Lab",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "ied-nitk.vlabs.ac.in",
   "introduction": "Welcome to Industrial Electric Drives Lab.",
   "experiment-sections": [
@@ -134,5 +134,5 @@
   },
   "exp_name": "Motor forward and reverse direction control using PLC",
   "exp_short_name": "exp-motor-forward-reverse-direction-control-nitk",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
