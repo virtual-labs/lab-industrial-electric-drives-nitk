@@ -134,5 +134,5 @@
   },
   "exp_name": "Motor forward and reverse direction control using PLC",
   "exp_short_name": "exp-motor-forward-reverse-direction-control-nitk",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
