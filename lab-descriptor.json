@@ -1,11 +1,11 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Industrial Electric Drives and Application of PLC",
   "lab_display_name": "Industrial Electric Drives Lab",
-  "deployLab": true,
   "phase": 2,
   "collegeName": "NITK",
   "baseUrl": "ied-nitk.vlabs.ac.in",
